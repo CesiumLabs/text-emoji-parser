@@ -1,0 +1,25 @@
+{
+  "name": "text-emoji-parser",
+  "version": "1.0.0",
+  "description": "Simple javascript package to parse emojis from text.",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "test": "cd test && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSnowflake/text-emoji-parser.git"
+  },
+  "keywords": [
+    "emoji",
+    "text-emojis",
+    "text-emoji-parser"
+  ],
+  "author": "Snowflake107",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevSnowflake/text-emoji-parser/issues"
+  },
+  "homepage": "https://github.com/DevSnowflake/text-emoji-parser#readme"
+}
