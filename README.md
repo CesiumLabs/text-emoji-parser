@@ -4,7 +4,7 @@ Simple JavaScript library to parse emojis from the given text. This package is b
 # Example
 
 ```js
-const { parse } = require("text-emoji-parser");
+const { parse } = require("@devsnowflake/text-emoji-parser");
 const entities = parse("Hello 😀 I 🧡 Emojis 🤗");
 
 console.log(entities);

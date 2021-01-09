@@ -1,5 +1,5 @@
 {
-  "name": "text-emoji-parser",
+  "name": "@devsnowflake/text-emoji-parser",
   "version": "1.0.0",
   "description": "Simple javascript package to parse emojis from text.",
   "main": "build/index.js",
